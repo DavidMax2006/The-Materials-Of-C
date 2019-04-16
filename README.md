@@ -5,7 +5,7 @@ This is the materials of C, build by C.
 
 > Do you know? Microsoft's *Visual Studio* is build by C! Clang is really important!
 
-<kbd>C-lang</kbd> is very fuctional for software programming, lots of softwares even Linux are build by C.
+<kbd>C-lang</kbd> is very functional for software programming, lots of softwares even Linux are build by C.
 
 If you want code a simple or whole big software, **you must learn C**!
 
